@@ -1,0 +1,32 @@
+h1,h4,h5,p {
+color: green;
+font-family: courier;
+}
+
+h2{
+color: red;
+font-family: Courier;
+}
+p, h3 {
+color: rgba(0, 0, 255,);
+font-family: courier;
+}
+
+img{
+width:200px;
+height: 200px;
+border-radius: 15%;
+
+}
+
+h5{
+font-size: 50px;
+font-family: courier;
+}
+p{
+    text-align: justify;
+}
+h5{
+font-size: 100px;
+
+}
